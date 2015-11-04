@@ -2,6 +2,10 @@
 Zalando Open Source Principles
 ==============================
 
+.. note::
+
+    This document is still a draft!
+
 Vision
 ======
 
