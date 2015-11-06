@@ -15,12 +15,12 @@ Principles
 * **Do “Open Source First”**: If your Zalando project can also be useful to non-Zalandos, release it as open source from the start.
 * **Take Ownership**: Your team is responsible for ensuring that it’s possible to open source your project. Your delivery lead is available for guidance.
 * **Share Your Code**: All code shared between teams must be open source.
-* **Be Safe**: To ensure the broadest possible use of our software, use :ref:`mit_license` only. 
+* **Be Safe**: To ensure the broadest possible use of your project, use the :ref:`mit_license` only. 
 * **Deliver Quality**: Provide a great out-of-the-box experience.
 * **Provide Documentation**: Include a clear README and default working configuration.
 * **Stay Secure**: Make sure your project doesn’t include Zalando specifics, such as credentials and private identifiers.
 * **Ask for Help**: Find colleagues to brainstorm ideas for your project and to review your work.
-* **Promote**: Tell the world about your projects via blog posts, social media and conference talks.
+* **Promote**: Tell the world about your project via blog posts, social media and conference talks.
 * **Join the Open Source Guild**: Help us make open source stronger at Zalando!
 
 .. note::
